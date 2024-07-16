@@ -1,0 +1,22 @@
+/*Estilos Css*/
+.hogwarts{
+    padding-bottom: 16px;
+}
+.hogwarts_principal{
+    margin: 0 auto;
+    padding: 16px 10%;
+    
+}
+.hogwarts_descripcion{ 
+    margin: 0 auto;
+    padding: 16px 10%;
+}
+@media screen and (max-width:1280px){
+    .hogwarts_principal{
+        padding: 16px 5%;
+        
+    }
+    .hogwarts_descripcion{ 
+        padding: 16px 5%;
+    }
+}
